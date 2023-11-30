@@ -1,2 +1,2 @@
-# blackjack
-A BlackJack game
+# BlackJack
+A BlackJack Game
